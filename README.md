@@ -118,4 +118,6 @@ fprintf(fptr,"\nGrade Average: %d",ave);
 
 fclose(fptr);
 
-return 0; }
+return 0; 
+
+}
